@@ -70,3 +70,9 @@ NOTE
 
 ​3. Run Pretrain_app.py using streamlit
 ​
+
+
+https://github.com/user-attachments/assets/491ef663-8785-484e-b87c-83ac0162bd71
+
+
+
