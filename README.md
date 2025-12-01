@@ -69,10 +69,10 @@ NOTE
 ​2.Save the output model in a folder named "saved_models" as "image_captioning_coco_weights" & output "vocab_coco.file" in a folder named "saved_vocabulary"
 
 ​3. Run Pretrain_app.py using streamlit
-​
 
 
-https://github.com/user-attachments/assets/491ef663-8785-484e-b87c-83ac0162bd71
+
+https://github.com/user-attachments/assets/a96768ae-0f82-48e6-98a6-2ae13182c892
 
 
 
